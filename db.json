@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Hanaan Meer Khan",
+      "company": "YouTube and Social Media",
+      "email": "hanaanmeerkhan@gmail.com",
+      "title": "Youtuber",
+      "mobile": "9876546787",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
+      "groupId": "3"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Mitchel Mark",
+      "company": "Service",
+      "email": "mitcheal@gmail.com",
+      "title": "Electrician",
+      "mobile": "9876546787",
+      "photo": "https://png.pngtree.com/png-clipart/20190922/original/pngtree-business-male-user-avatar-vector-png-image_4774078.jpg",
+      "groupId": "4"
+    },
+    {
+      "name": "Brad Hoppe",
+      "photo": "https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/256/User-icon.png",
+      "mobile": "9090909090",
+      "email": "brad@gmail.com",
+      "company": "HCL Technologies",
+      "title": "Software Engineer",
+      "groupId": "1",
+      "id": "kLt-bJF"
+    },
+    {
+      "name": "Umar Bashir",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzBpnouxDuF063trW5gZOyXtyuQaExCQVMYA&usqp=CAU",
+      "mobile": "9999567890",
+      "email": "umartsa@gmail.com",
+      "company": "TSA",
+      "title": "Student",
+      "groupId": "2",
+      "id": "7NS2xc7"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
